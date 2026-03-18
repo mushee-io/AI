@@ -27,7 +27,7 @@ export default function HomePage() {
 
         <section className="relative grid gap-10 py-12 lg:grid-cols-[1.05fr_0.95fr] lg:items-center lg:py-20">
           <div>
-            <div className="pill">White + purple premium interface · Polygon USDC rail</div>
+            <div className="pill">Mushee + on Yellow Network · Polygon USDC rail</div>
             <h1 className="mt-6 max-w-4xl text-5xl font-semibold leading-[1.02] tracking-[-0.04em] sm:text-6xl lg:text-7xl">
               Your AI product should look
               <span className="text-gradient"> fundable on sight.</span>
