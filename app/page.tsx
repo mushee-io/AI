@@ -29,8 +29,8 @@ export default function HomePage() {
           <div>
             <div className="pill">Mushee + on Yellow Network · Polygon USDC rail</div>
             <h1 className="mt-6 max-w-4xl text-5xl font-semibold leading-[1.02] tracking-[-0.04em] sm:text-6xl lg:text-7xl">
-              Your AI product should look
-              <span className="text-gradient"> fundable on sight.</span>
+              Mushee AI built on 
+              <span className="text-gradient"> Yellow Network.</span>
             </h1>
             <p className="mt-6 max-w-2xl text-lg leading-8 text-muted sm:text-xl">
               Mushee is the polished front door for your AI actions business: a clean pre-launch page, an investor-ready workspace,
