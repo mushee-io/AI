@@ -123,7 +123,7 @@ export default function DashboardPage() {
                 <div className="pill">Mushee AI workspace</div>
                 <h1 className="mt-4 text-3xl font-semibold tracking-tight text-ink sm:text-4xl">A cleaner AI interface with the same onchain payment logic.</h1>
                 <p className="mt-3 max-w-3xl text-sm leading-7 text-muted sm:text-base">
-                  This experience is branded as Mushee AI on the front end while the request engine runs through your ChainGPT API credit balance on the backend.
+                  This experience is branded as Mushee AI on the front end while the request engine runs through your Mushee API credit balance on the backend.
                 </p>
               </div>
               <div className="glass-panel rounded-[28px] px-4 py-3 text-sm text-muted">{statusText}</div>
