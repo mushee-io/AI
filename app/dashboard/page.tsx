@@ -141,7 +141,7 @@ export default function DashboardPage() {
                       <div className="text-xl font-semibold tracking-tight text-ink">Run Mushee AI</div>
                       <div className="mt-1 text-sm text-muted">Choose an action, pay in USDC, then get the result.</div>
                     </div>
-                    <div className="rounded-full bg-white/70 px-3 py-1 text-xs text-muted">ChainGPT-backed · Polygon settled</div>
+                    <div className="rounded-full bg-white/70 px-3 py-1 text-xs text-muted">Mushee-backed · Polygon settled</div>
                   </div>
 
                   <ToolSelector tool={tool} onChange={setTool} />
