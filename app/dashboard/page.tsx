@@ -121,7 +121,7 @@ export default function DashboardPage() {
             <div className="flex flex-col gap-4 lg:flex-row lg:items-end lg:justify-between">
               <div>
                 <div className="pill">Mushee AI workspace</div>
-                <h1 className="mt-4 text-3xl font-semibold tracking-tight text-ink sm:text-4xl">A cleaner AI interface with the same onchain payment logic.</h1>
+                <h1 className="mt-4 text-3xl font-semibold tracking-tight text-ink sm:text-4xl">Built On Yellow Network .</h1>
                 <p className="mt-3 max-w-3xl text-sm leading-7 text-muted sm:text-base">
                   This experience is branded as Mushee AI on the front end while the request engine runs through your Mushee API credit balance on the backend.
                 </p>
